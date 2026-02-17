@@ -1,6 +1,6 @@
 # Project Overview
 
-This project demonstrates an end-to-end integration workflow between a public REST API and a reporting dashboard.
+This project demonstrates an end-to-end integration workflow between a public REST API and a reporting platform which would be the next steps in this project if time constraints allowed. 
 
 # Architecture
 
@@ -24,7 +24,7 @@ API → Python Integration Script → SQLite Database → Power BI Dashboard(fut
 
 - SQLite
 
-- Power BI
+- Power BI(future)
 
 # How to Run
 
@@ -32,4 +32,4 @@ API → Python Integration Script → SQLite Database → Power BI Dashboard(fut
 
 - Run fetch_and_store.py
 
-- Connect Power BI to crm_data.db
+- Connect Power BI to crm_data.db(future)
