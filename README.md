@@ -1,38 +1,37 @@
-# crm_intergration_demo
-Project Overview
+# Project Overview
 
 This project demonstrates an end-to-end integration workflow between a public REST API and a reporting dashboard.
 
-Architecture
+# Architecture
 
 API → Python Integration Script → SQLite Database → Power BI Dashboard
 
-Integration Capabilities Demonstrated
+# Integration Capabilities Demonstrated
 
-REST API consumption
+- REST API consumption
 
-Data transformation
+- Data transformation
 
-Structured storage
+- Structured storage
 
-Reporting integration
+- Reporting integration
 
-Basic data modeling
+- Basic data modeling
 
-Technologies Used
+# Technologies Used
 
-Python
+- Python
 
-Requests
+- Requests
 
-SQLite
+- SQLite
 
-Power BI
+- Power BI
 
-How to Run
+# How to Run
 
-Install requirements
+- Install requirements
 
-Run fetch_and_store.py
+- Run fetch_and_store.py
 
-Connect Power BI to crm_data.db
+- Connect Power BI to crm_data.db
