@@ -4,7 +4,7 @@ This project demonstrates an end-to-end integration workflow between a public RE
 
 # Architecture
 
-API → Python Integration Script → SQLite Database → Power BI Dashboard
+API → Python Integration Script → SQLite Database → Power BI Dashboard(future)
 
 # Integration Capabilities Demonstrated
 
@@ -13,8 +13,6 @@ API → Python Integration Script → SQLite Database → Power BI Dashboard
 - Data transformation
 
 - Structured storage
-
-- Reporting integration
 
 - Basic data modeling
 
